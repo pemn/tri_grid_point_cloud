@@ -1,6 +1,6 @@
 # tri_grid_point_cloud
-Generic script to create grids and surfaces from dense point clouds (ie.: filter points).
-The idea is to reduce a large number of points by creating "cells" which will have the value of the median of all points inside.  
+Generic script to create grids and surfaces from dense point clouds (ie.: filter points).  
+The idea is to reduce a large number of points by creating cells/voxels which will have the value of the median of all points inside.  
 This not only allows for a much smaller data, but also smoothes outliers that otherwise would create very visible noise in the surface.  
 This script does not require any proprietary software to run, but some inputs/outputs require Maptek Vulcan.  
 
