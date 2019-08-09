@@ -59,7 +59,7 @@ def tri_grid_point_cloud(input_path, variable, cell_size, output_path):
 
   vs = VoxelSpace(df, [cell_size, cell_size])
 
-  vs.calculate_mean_xyz(variable)
+  vs.calculate_mean(variable)
 
   if output_path.lower().endswith('.00t'):
     output_grid = output_path + '.00g'
