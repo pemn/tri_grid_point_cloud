@@ -18,8 +18,8 @@ The resulta can be saved in multiple formats:
  - 00t (proprietary triangulation, requires Vulcan)
 
 ## screenshots
-![screenshot1](https://github.com/pemn/tri_grid_point_cloud/blob/master/assets/screenshot1.png)  
-![screenshot2](https://github.com/pemn/tri_grid_point_cloud/blob/master/assets/screenshot2.png)  
-![screenshot3](https://github.com/pemn/tri_grid_point_cloud/blob/master/assets/screenshot3.png)  
+![screenshot1](./assets/screenshot1.png?raw=true)  
+![screenshot2](./assets/screenshot2.png?raw=true)  
+![screenshot3](./assets/screenshot3.png?raw=true)  
 ## License
 Apache 2.0
